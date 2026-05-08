@@ -1,0 +1,4 @@
+name: Baptized, baptized
+markdown: kramdown
+permalink: /blog/:title
+url: "https://baptized.dev"
